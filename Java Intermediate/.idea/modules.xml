@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_in_java/Algorithm_in_java.iml" filepath="$PROJECT_DIR$/Algorithm_in_java/Algorithm_in_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alpit/Alpit.iml" filepath="$PROJECT_DIR$/Alpit/Alpit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Core concepts/Core concepts.iml" filepath="$PROJECT_DIR$/Core concepts/Core concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerearth/Data.iml" filepath="$PROJECT_DIR$/Hackerearth/Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data_Structure/Data_Structure.iml" filepath="$PROJECT_DIR$/Data_Structure/Data_Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerearth/Data_structure.iml" filepath="$PROJECT_DIR$/Hackerearth/Data_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Database/Database.iml" filepath="$PROJECT_DIR$/Database/Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerearth/Datastructure.iml" filepath="$PROJECT_DIR$/Hackerearth/Datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gson/Gson.iml" filepath="$PROJECT_DIR$/Gson/Gson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hackerearth/Hackerearth.iml" filepath="$PROJECT_DIR$/Hackerearth/Hackerearth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IIT/IIT.iml" filepath="$PROJECT_DIR$/IIT/IIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Intermediate.iml" filepath="$PROJECT_DIR$/Java Intermediate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Networking/Networking.iml" filepath="$PROJECT_DIR$/Networking/Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New things/New things.iml" filepath="$PROJECT_DIR$/New things/New things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recur/Recur.iml" filepath="$PROJECT_DIR$/Recur/Recur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sap_tarining/Sap_tarining.iml" filepath="$PROJECT_DIR$/Sap_tarining/Sap_tarining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wipro/Wipro.iml" filepath="$PROJECT_DIR$/Wipro/Wipro.iml" />
+    </modules>
+  </component>
+</project>
